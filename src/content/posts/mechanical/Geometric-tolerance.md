@@ -3,7 +3,7 @@ title: 几何公差
 published: 2025-10-12
 description: 公差
 tags:
-  - 公差
+  - tolerance
 category: drawing
 draft: true
 ---

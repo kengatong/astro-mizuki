@@ -447,14 +447,18 @@ export const pioConfig: import("./types/config").PioConfig = {
 	width: 280, // 默认宽度
 	height: 250, // 默认高度
 	mode: "draggable", // 默认为可拖拽模式
-	hiddenOnMobile: false, // 默认在移动设备上隐藏
+	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	dialog: {
 		welcome: "嗨，异世界的旅人！！！", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"HENTAI!",
-			"Don't bully me like that!",
+			"告别过去，是为了走向未来",
+			"愿你前行的道路有群星闪耀，愿你留下的足迹有百花绽放",
+			"压力之下的选择才能揭示一个人的真我，也将决定他最终会成为怎么样的人",
+			"如果乐园不存在，那我就自己创造一个吧",
+			"我并非在等待，只是在看风景。风景很美，不是吗？",
+			"执拗的花朵永远不会因暴雨而褪去颜色吗，你的决心也一定能在绝境中绽放真我",
+			"悲剧并非终结，而是希望的起始",
+			"此后，将有群星闪耀，因为我如今来过。此后，将有百花绽放，因为我从未离去",
 		], // 触摸提示
 		home: "Click here to go back to homepage!", // 首页提示
 		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
