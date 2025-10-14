@@ -5,7 +5,7 @@ description: 公差
 tags:
   - tolerance
 category: drawing
-draft: true
+draft: false
 ---
 ## 基本概念
 
