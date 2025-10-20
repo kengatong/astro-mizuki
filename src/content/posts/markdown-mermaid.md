@@ -3,10 +3,13 @@ title: Markdown Mermaid
 published: 2023-10-01
 pinned: false
 description: A simple example of a Markdown blog post with Mermaid.
-tags: [Markdown, Blogging, Mermaid]
+tags:
+  - Markdown
+  - Blogging
+  - Mermaid
 category: Examples
-draft: false
-series: "Mizuki"
+draft: true
+series: Mizuki
 ---
 # Complete Guide to Markdown with Mermaid Diagrams
 
