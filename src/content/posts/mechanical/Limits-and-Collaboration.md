@@ -101,6 +101,7 @@ GB/T 1801-2009规定了公称尺寸至3150mm的孔、轴公差带的选择范围
 	<li><a href="https://www.sohu.com/a/753499177_121652032" target="_blank">公差等级划分</a></li>
 	<li><a href="https://www.mechtool.cn/drawingandaccuracy/drawingandaccuracy_standardtolerancelevelforapplication.html" target="_blank">标准公差等级的应用</a></li>
 </ul>
+
 ### 基孔制与基轴制的选择
 一般应优先选用基孔制。设计时，为了减少定值刀具、量具的规格和种类，便于生产，提高经济性，应优先采用基孔制。孔的加工通常比轴更困难、成本更高。标准零件（如轴承、销、螺栓等）多按基孔制设计。
 

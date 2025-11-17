@@ -29,3 +29,16 @@ draft: true
 	<li><a href="https://zhuanlan.zhihu.com/p/1961093242603930225" target="_blank">知乎-表面粗糙度</a></li>
 	<li><a href="https://www.doc88.com/p-2065310036782.html?s=rel&id=1" target="_blank">表面粗糙度符号-代号及注法 GB/T 131-93</a></li>
 </ul>
+
+### 丝
+50分度的游标卡尺，一格是0.02mm。
+![](../../assets/images/TB2MvdTXBPCIuJjSZJiXXaCVXXa_!!3252329270.avif)
+1mm = 1000μm    1μm = 1000nm
+
+1mm = 100丝
+
+1丝 = 0.01mm
+
+1μm(谬) = 0.001mm
+
+### 尺寸链
