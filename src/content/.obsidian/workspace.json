@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/about.md",
+                "file": "posts/computer-related/agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "agent"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/mechanical/drawing/Geometric-tolerance.md",
+                "file": "posts/computer-related/agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Geometric-tolerance 的出链列表"
+              "title": "agent 的出链列表"
             }
           },
           {
@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/computer-related/configure-desktop-computer.md",
+                "file": "posts/computer-related/agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "configure-desktop-computer 的大纲"
+              "title": "agent 的大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,16 +172,22 @@
   },
   "active": "86b73592ad7387a2",
   "lastOpenFiles": [
-    "spec/friends.md",
-    "spec/about.md",
-    "posts/repost/thread-drawing.md",
+    "posts/encrypted-post.md",
+    "posts/computer-related/agent.md",
+    "assets/images/agent-3.png",
+    "assets/images/agent-2.png",
     "posts/computer-related/turing-complete.md",
+    "assets/images/agent-1.png",
+    "assets/images/agent-1.png",
+    "assets/images/agent.png",
+    "posts/computer-related/gitRecord.md",
     "posts/computer-related/configure-desktop-computer.md",
+    "spec/about.md",
+    "spec/friends.md",
+    "posts/repost/thread-drawing.md",
     "posts/video.md",
     "posts/markdown-extended.md",
-    "posts/encrypted-post.md",
     "posts/markdown-tutorial.md",
-    "posts/computer-related/gitRecord.md",
     "posts/computer-related/guide.md",
     "assets/images/turing-complete.png",
     "posts/draft.md",
@@ -192,14 +198,9 @@
     "assets/images/thread-drawing-1.png",
     "assets/images/thread-drawing.png",
     "posts/repost",
-    "assets/images/configure-desktop-computer.png",
     "posts/mechanical/Geometric-tolerance.md",
     "posts/mechanical/Limits-and-Collaboration.md",
     "posts/mechanical/term.md",
-    "assets/images/TB2MvdTXBPCIuJjSZJiXXaCVXXa_!!3252329270.avif",
-    "assets/images/Limits-and-Collaboration-10.png",
-    "assets/images/Limits-and-Collaboration-9.png",
-    "assets/images/Limits-and-Collaboration-8.png",
     "posts/mechanical/geometric-tolerance.md",
     "posts/mechanical/新建文件夹",
     "posts/computer-related/drawing.md",
@@ -217,7 +218,6 @@
     "posts/humanistic-elements",
     "posts/mechanical/drawing/几何公差.md",
     "templates/template.md",
-    "posts/mechanical/drawing/dsfewe.md",
     "posts/mechanical/drawing/未命名.canvas"
   ]
 }
