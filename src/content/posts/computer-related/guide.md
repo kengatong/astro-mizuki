@@ -6,6 +6,7 @@ tags:
   - software
 category: Comperter-related
 draft: false
+updated: 2025-11-19
 ---
 
 ## 装机指南
@@ -79,7 +80,7 @@ Typora 是一个所见即所得的 Markdown 跨平台写作工具。[**官网**]
 
 ### Jetbrains-Pycharm
 
-这是一个编辑器。**[官网](https://www.jetbrains.com/pycharm/download/?section=windows)**提供了专业版和社区版的下载链接，建议下载社区版，因为是免费的。但是现在社区版的位置并不是很明显，需要点击**其它版本**才可以找到。
+这是一个编辑器。**[官网](https://www.jetbrains.com/pycharm/download/?section=windows)**现在将专业版和社区版合在一起了，下载之后，你将会有一个月的专业版试用时间，等专业版的试用期过后，你仍旧可以使用它的核心功能（之前的社区版）。
 
 安装教程以及新建自己的第一个项目，可以看这篇[**文字教程**](https://www.jianshu.com/p/eb606812765d)，如果图片加载失败，可以换个浏览器试试。还有这个[**视频**](https://www.bilibili.com/video/BV1CE411Z7rH/?spm_id_from=333.999.0.0&vd_source=2a56056c25b9c9a1d5d14061494e574a)讲解如何新建一个项目。
 
